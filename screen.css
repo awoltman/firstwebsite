@@ -49,3 +49,10 @@ table {
 
 /* End Reset CSS */
 /* Begin my code here */
+
+
+/* Responsive Images */
+img{
+	display: block;
+	max-width: 100%;
+}
