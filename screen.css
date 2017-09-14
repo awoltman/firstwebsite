@@ -53,7 +53,9 @@ table {
 
 /* Responsive Images */
 p {
-	line-height: 20px;
+	line-height: 1.25em;
+	padding-bottom: 1.25em;
+	text-indent: 1.25em;
 }
 img{
 	display: block;
