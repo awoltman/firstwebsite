@@ -5,6 +5,23 @@ I enjoy long bike rides and kayaking. I also love being out in nature and taking
 pictures of God's Masterpiece(nature).
 
 This summer I had the opportunity to work for Manitowoc Ice, a Welbilt Brand, they are
-the worlds largest producer of ice machines. I was able to narrow what I want to do when
-I graduate through this experience. I want to become a Electrical Engineer with an
-emphasis in Control Engineering.
+the worlds largest producer of ice machines. This summer I to projects, of them I am 
+most proud two of them, working to impliment 14 languages on a newly implimented touch 
+screen and working with supliers to fix a problem that was costing the company tens of 
+thousands of dollars in Warrenty payout. For the languages I was a member of a team 
+were we worked with our suplier for embeded controls to pick a processor that would be 
+able to handle the implimentation of those 14 languages. Early on in the summmer we 
+were able to determine that current processor would not allow for the expantion for 14 
+languages. Upon finding this out, we worked to minimize the number of machines to enter 
+the market.
+
+The other project, we'll call it the Warrenty problem, was a problem that I got to lead.
+It was a great experience that I was able to have. Haveing never had to talk to a 
+suplier that was not providing us with a product that was to the design standards that we 
+provided when the initial design for this product began. Using Warrenty data we were able
+provide them with data and a Weibull test showing that the life of the product they were 
+suplying was failing more than two years before the Warrenty was up. We sent them samples
+so they could do root cause analysis. They found this problem to be very concerning and 
+requested to come out to Wisconsin to visit and for over some of the verification things 
+they did at there labs in Idaho.
+
