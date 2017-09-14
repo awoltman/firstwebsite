@@ -52,6 +52,9 @@ table {
 
 
 /* Responsive Images */
+p {
+	line-height: 20px;
+}
 img{
 	display: block;
 	max-width: 100%;
